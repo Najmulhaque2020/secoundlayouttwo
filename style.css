@@ -147,6 +147,9 @@ section img {
     float: none;
     margin-bottom: 25px; }
 
+.col {
+  padding: 8px; }
+		
   nav {
     width: 100%;
     float: none; }
