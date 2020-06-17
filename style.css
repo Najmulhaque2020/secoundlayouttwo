@@ -133,7 +133,9 @@ section img {
 .yellow {
   background-color: #fdebed; }
 
-@media (max-width: 700px) {
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
   .wrapper {
     width: 90%; }
 
