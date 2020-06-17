@@ -157,6 +157,8 @@ section img {
     text-align: center; }
 
   nav ul li a {
-    padding: 10px; } }
+    padding: 10px;
+    padding-bottom: 50px;
+} }
 
 /*# sourceMappingURL=style.css.map */
